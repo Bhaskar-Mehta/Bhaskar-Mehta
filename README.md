@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhaskar-Mehta&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bhaskar-Mehta&label=Profile%20Views&color=1f6feb&style=flat&t=1" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Status-Learning%20AI-3fb950?style=flat" />
   <img src="https://img.shields.io/badge/Location-Nepal-d29922?style=flat" />
 </p>
